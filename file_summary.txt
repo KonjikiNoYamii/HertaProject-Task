@@ -1,0 +1,14 @@
+Daftar Branch
+  isekai
+* master
+Daftar Commit
+75d5c8d file .gitignore
+d640585 file file gambar
+e64d480 Revert "ini file .gitignore"
+4e9eb2f ini file .gitignore
+52d4736 ini commit kadua
+1bbd0cb ini commit mimiti
+File .gitignore
+WeeklyQuest.zipDaftar remote
+origin	git@github.com:KonjikiNoYamii/HertaProject-Task.git (fetch)
+origin	git@github.com:KonjikiNoYamii/HertaProject-Task.git (push)
